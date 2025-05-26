@@ -2,7 +2,7 @@
 
 <p>Sou estudante da Fatec Praia Grande e técnico formado pelo IFSP - Campus Cubatão. </p>
 
-<img data-canonical-src="https://github-readme-stats.vercel.app/api?username=nategomes01&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true" style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api?username=nategomes01&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true" style="max-width: 100%;">
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
